@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "992352197109",
+    "firebase_url": "https://exerciseyt-8aeb3-default-rtdb.firebaseio.com",
+    "project_id": "exerciseyt-8aeb3",
+    "storage_bucket": "exerciseyt-8aeb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992352197109:android:d43834c20fe0e6a7f928bc",
+        "android_client_info": {
+          "package_name": "com.android.firebaseexercisemultileveluser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLA6L995-UV2bfbuEl-tqlakkV24-jMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
